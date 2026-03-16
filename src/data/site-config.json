@@ -1,120 +1,118 @@
 {
-  "is_paid": false,
   "metadata": {
-    "title": "Modern Ajans Pro",
-    "description": "Profesyonel dijital çözümler."
+    "title": "Lüks Villa Mimarisi | Modern & Minimalist Tasarım Stüdyosu",
+    "description": "Minimalist ve modern yaklaşımla hayallerinizdeki lüks villaları tasarlıyoruz. Kişiye özel mimari çözümler ve estetik detaylarla yaşam alanlarınıza değer katıyoruz."
   },
   "theme": {
     "colors": {
-      "primary": "#2563eb",
-      "secondary": "#1e40af",
-      "background": "#0f172a",
-      "text": "#f8fafc"
+      "primary": "#0A2342",
+      "secondary": "#84A9C0",
+      "background": "#F8F9FA",
+      "text": "#1A1A1A"
     },
     "fonts": {
-      "heading": "Montserrat",
+      "heading": "Inter",
       "body": "Inter"
     },
     "style": "modern"
   },
   "images": {
-    "hero_keyword": "modern office architecture glass",
-    "about_keyword": "team meeting creative",
+    "hero_keyword": "minimalist lüks villa dış cephesi ve sonsuzluk havuzu gün batımında",
+    "about_keyword": "aydınlık modern mimarlık ofisi iç mekanı ve tasarım planları",
     "feature_keywords": [
-      "code",
-      "design",
-      "rocket"
+      "şık modern mutfak ve mermer ada tezgah",
+      "geniş pencereli lüks banyo ve küvet",
+      "yüksek tavanlı minimalist oturma odası"
     ]
   },
   "content": {
     "hero": {
-      "headline": "Geleceği Şekillendiriyoruz",
-      "subheadline": "İşletmeniz için en modern teknolojileri kullanarak dijital dünyada fark yaratın.",
-      "ctaButtonText": "Hemen Başlayın"
+      "headline": "Hayalinizdeki Villayı Birlikte Tasarlayalım",
+      "subheadline": "Modern mimarinin estetik ve fonksiyonellikle buluştuğu, size özel lüks villa projeleriyle tanışın ve farkı hissedin.",
+      "ctaButtonText": "Proje Teklifi Alın"
     },
     "about": {
-      "title": "Biz Kimiz?",
-      "description": "2010 yılından beri sektörde öncü çözümler üretiyoruz. Müşteri memnuniyeti odaklı yaklaşımımızla markanızı zirveye taşıyoruz.",
+      "title": "Modern Mimarinin Öncüsü",
+      "description": "Yenilikçi vizyonumuz ve detaylara verdiğimiz önemle, her projeyi bir sanat eseri olarak görüyoruz. Minimalist çizgilerle lüksü yeniden tanımlayarak, zamansız ve fonksiyonel yaşam alanları yaratıyoruz.",
       "stats": [
         {
-          "label": "Tamamlanan Proje",
-          "value": "500+"
+          "value": "15+",
+          "label": "Yıllık Sektör Deneyimi"
         },
         {
-          "label": "Mutlu Müşteri",
-          "value": "150+"
+          "value": "50+",
+          "label": "Tamamlanan Lüks Proje"
         },
         {
-          "label": "Yıllık Deneyim",
-          "value": "12"
+          "value": "100%",
+          "label": "Müşteri Memnuniyeti"
         }
       ]
     },
     "services": [
       {
-        "title": "Web Tasarım",
-        "description": "Mobil uyumlu, hızlı ve modern web siteleri.",
-        "icon": "💻"
-      },
-      {
-        "title": "SEO Optimizasyonu",
-        "description": "Google'da ilk sıralarda yerinizi alın.",
+        "title": "Konsept Tasarım ve Planlama",
+        "description": "Hayallerinizi dinleyerek, projenizin ilk adımlarını atıyor ve size özel konsept tasarımlar oluşturuyoruz.",
         "icon": "🚀"
       },
       {
-        "title": "Sosyal Medya",
-        "description": "Markanızın sesini dünyaya duyurun.",
-        "icon": "📱"
-      }
-    ],
-    "testimonials": [
-      {
-        "name": "Ahmet Yılmaz",
-        "role": "CEO, Tech Corp",
-        "comment": "Harika bir ekip, işlerini zamanında ve mükemmel yapıyorlar."
+        "title": "Mimari Proje ve Uygulama",
+        "description": "Detaylı mimari çizimlerden uygulama süreçlerinin yönetimine kadar projenizi titizlikle hayata geçiriyoruz.",
+        "icon": "💎"
       },
       {
-        "name": "Ayşe Demir",
-        "role": "Pazarlama Müdürü",
-        "comment": "Satışlarımız %200 arttı. Kesinlikle tavsiye ediyorum."
+        "title": "İç Mekan Tasarımı ve Dekorasyon",
+        "description": "Villanızın dış cephesiyle uyumlu, estetik ve fonksiyonel iç mekanlar tasarlayarak bütüncül bir şıklık sunuyoruz.",
+        "icon": "⚡"
       }
     ],
     "process": [
       {
         "step": "01",
         "title": "Keşif ve Analiz",
-        "description": "İhtiyaçlarınızı dinliyor, hedeflerinizi belirliyoruz."
+        "description": "İhtiyaçlarınızı ve beklentilerinizi anlamak için detaylı bir analiz ve keşif süreci yürütüyoruz."
       },
       {
         "step": "02",
-        "title": "Tasarım ve Planlama",
-        "description": "Modern ve kullanıcı dostu tasarımlar oluşturuyoruz."
+        "title": "Tasarım ve Sunum",
+        "description": "Size özel oluşturulan konsept tasarımları 3D görselleştirmelerle sunarak projenizi somutlaştırıyoruz."
       },
       {
         "step": "03",
-        "title": "Geliştirme ve Teslimat",
-        "description": "Kodlama ve testleri tamamlayıp projenizi teslim ediyoruz."
+        "title": "Uygulama ve Teslim",
+        "description": "Uygulama sürecini titizlikle yönetiyor ve hayalinizdeki projeyi anahtar teslim olarak sizlere sunuyoruz."
       }
     ],
     "faq": [
       {
-        "question": "Proje teslim süresi ne kadar?",
-        "answer": "Projenin kapsamına göre 2-6 hafta arasında değişmektedir."
+        "question": "Tasarım ve proje süreci ne kadar sürer?",
+        "answer": "Projenin kapsamına ve detaylarına bağlı olarak tasarım süresi değişiklik gösterebilmektedir."
       },
       {
-        "question": "Ödeme koşulları nelerdir?",
-        "answer": "%50 peşin, %50 teslimat sonrası ödeme planı sunuyoruz."
+        "question": "Sadece tasarım hizmeti mi veriyorsunuz?",
+        "answer": "Tasarım, proje yönetimi ve uygulama danışmanlığı gibi geniş bir yelpazede hizmet sunuyoruz."
       },
       {
-        "question": "Destek hizmeti veriyor musunuz?",
-        "answer": "Evet, teslim sonrası 6 ay ücretsiz teknik destek sağlıyoruz."
+        "question": "Mevcut bir villayı yeniden tasarlıyor musunuz?",
+        "answer": "Elbette, renovasyon ve yeniden düzenleme projelerinde de uzmanlığımızla hizmet vermekteyiz."
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Emir Kaan",
+        "role": "Yatırımcı",
+        "comment": "Profesyonel yaklaşımları ve yaratıcı çözümleriyle harika bir iş çıkardılar. Sonuç beklentimin çok ötesinde oldu."
+      },
+      {
+        "name": "Selin Öztürk",
+        "role": "Ev Sahibi",
+        "comment": "Tüm süreç boyunca iletişimleri mükemmeldi. Hayalimdeki evi tam olarak anladılar ve gerçeğe dönüştürdüler."
       }
     ],
     "contact": {
-      "address": "Levent, Büyükdere Cd. No:1, İstanbul",
-      "phone": "+90 555 123 45 67",
-      "email": "info@modernajans.com",
-      "map_query": "Istanbul"
+      "address": "Levent, Büyükdere Cd. 34330 Beşiktaş/İstanbul, Türkiye",
+      "phone": "+905541103132",
+      "email": "cankavlak@gmail.com"
     }
   }
 }
